@@ -1,3 +1,12 @@
+## Get Start
+
+```sh
+pip install -r requirement.txt
+
+```
+
+## Other
+
 在Pycharm中Matplotlib Backend绘图会存在问题，解决方案为使用`TkAgg`后端进行绘图。
 
 安装tk依赖：

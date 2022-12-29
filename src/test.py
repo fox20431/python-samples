@@ -1,7 +1,10 @@
-import test2
+import asyncio
 
-test2.prt()
+async def main():
+	print('hello')
+	await asyncio.sleep(1)
+	print('world')
 
-a = None
+asyncio.run(main())
 
-print()
+# await main()

@@ -1,0 +1,5 @@
+ipykernel # for jupyter
+numpy
+matplotlib
+pyttsx3
+nest_asyncio
